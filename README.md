@@ -1,3 +1,2 @@
-# Artificial_Intelligence_Projects
-Artificial Intelligence Projects
+# Artificial Intelligence Projects
 some practical applications of my previous studied in the field of data science
